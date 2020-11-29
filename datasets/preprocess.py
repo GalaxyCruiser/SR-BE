@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*-
 
 
-######################################################
-# Adapted from CRIPAC-DIG/SR-GNN for fair comparison #
-######################################################
+##################################
+# Adapted from CRIPAC-DIG/SR-GNN #
+##################################
 
 import argparse
 import time
