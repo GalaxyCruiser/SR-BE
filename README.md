@@ -1,5 +1,5 @@
 # SR-BE
-Implementation for the paper entitled "Global and Local Bi-encoders for Session-based Recommendation"
+Implementation for the paper entitled "SR-BE based Bi-encoders for Session-based Recommendation"
 
 You can download the datasets which used in our paper from the following links. Then put them in the folder `datasets/`:
 
